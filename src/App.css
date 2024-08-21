@@ -1,0 +1,35 @@
+.app {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+.search-box {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  font-size: 16px;
+}
+
+.book-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.book-list li {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+.book-image {
+  width: 50%;
+  height: auto;
+  margin-left: 25%;
+}
+
